@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document>
+        <name>Location history from 2021-10-20 to 2021-10-20</name>
+        <open>1</open>
+        <description></description>
+        <StyleMap id="multiTrack">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#multiTrack_n</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#multiTrack_h</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="multiTrack_n">
+            <IconStyle>
+                <Icon>
+                    <href>https://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+                </Icon>
+            </IconStyle>
+            <LineStyle>
+                <color>99ffac59</color>
+                <width>6</width>
+            </LineStyle>
+        </Style>
+        <Style id="multiTrack_h">
+            <IconStyle>
+                <scale>1.2</scale>
+                <Icon>
+                    <href>https://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+                </Icon>
+            </IconStyle>
+            <LineStyle>
+                <color>99ffac59</color>
+                <width>8</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Home (626 High Rd)</name>
+            <address>626 High Rd, London N12 0NU</address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value></value>
+                </Data>
+                <Data name="Distance">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <description>from 2021-10-18T14:11:53.356Z to 2021-10-20T09:46:50.219Z. Distance 0m</description>
+            <Point>
+                <coordinates>-0.17524869999999998,51.6111477,0</coordinates>
+            </Point>
+            <TimeSpan>
+                <begin>2021-10-18T14:11:53.356Z</begin>
+                <end>2021-10-20T09:46:50.219Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>On a bus</name>
+            <address></address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>On a bus</value>
+                </Data>
+                <Data name="Distance">
+                    <value>4476</value>
+                </Data>
+            </ExtendedData>
+            <description>On a bus from 2021-10-20T09:46:50.219Z to 2021-10-20T10:04:14.402Z. Distance 4476m
+            </description>
+            <LineString>
+                <altitudeMode>clampToGround</altitudeMode>
+                <extrude>1</extrude>
+                <tesselate>1</tesselate>
+                <coordinates>-0.17524869999999998,51.6111477,0 -0.17524869999999998,51.6111477,0 -0.1754374,51.6110613,0
+                    -0.175326,51.6069299,0 -0.1741047,51.6021762,0 -0.1724891,51.598596,0 -0.1697946,51.5952491,0
+                    -0.1640508,51.5901562,0 -0.1552263,51.5812897,0 -0.1461318,51.5772246,0
+                    -0.1460757,51.577315899999995,0
+                </coordinates>
+            </LineString>
+            <TimeSpan>
+                <begin>2021-10-20T09:46:50.219Z</begin>
+                <end>2021-10-20T10:04:14.402Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>Highgate Station (Stop T)</name>
+            <address>London N6 5AA</address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>Bus and Coach Station</value>
+                </Data>
+                <Data name="Distance">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <description>Bus and Coach Station from 2021-10-20T10:04:14.402Z to 2021-10-20T10:10:17.753Z. Distance 0m
+            </description>
+            <Point>
+                <coordinates>-0.1460757,51.577315899999995,0</coordinates>
+            </Point>
+            <TimeSpan>
+                <begin>2021-10-20T10:04:14.402Z</begin>
+                <end>2021-10-20T10:10:17.753Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>On a bus</name>
+            <address></address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>On a bus</value>
+                </Data>
+                <Data name="Distance">
+                    <value>4757</value>
+                </Data>
+            </ExtendedData>
+            <description>On a bus from 2021-10-20T10:10:17.753Z to 2021-10-20T10:43:08.003Z. Distance 4757m
+            </description>
+            <LineString>
+                <altitudeMode>clampToGround</altitudeMode>
+                <extrude>1</extrude>
+                <tesselate>1</tesselate>
+                <coordinates>-0.1460757,51.577315899999995,0 -0.1461041,51.5772144,0 -0.1409624,51.5734718,0
+                    -0.1386937,51.5710626,0 -0.1335286,51.566197,0 -0.1348459,51.5648881,0 -0.1368752,51.5611616,0
+                    -0.1388195,51.5563305,0 -0.1410608,51.552018,0 -0.1410748,51.5520173,0 -0.1410748,51.5520173,0
+                    -0.1406578,51.550274,0 -0.1408188,51.5496446,0 -0.1409132,51.5494133,0 -0.1409056,51.5494101,0
+                    -0.1417474,51.545975,0 -0.141848,51.5430148,0 -0.1395997,51.5405675,0 -0.1413037,51.5398705,0
+                    -0.1426546,51.5393847,0
+                </coordinates>
+            </LineString>
+            <TimeSpan>
+                <begin>2021-10-20T10:10:17.753Z</begin>
+                <end>2021-10-20T10:43:08.003Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>Camden Town</name>
+            <address>London NW1 8QL</address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>Underground Station</value>
+                </Data>
+                <Data name="Distance">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <description>Underground Station from 2021-10-20T10:43:08.003Z to 2021-10-20T10:47:56.807Z. Distance 0m
+            </description>
+            <Point>
+                <coordinates>-0.1426546,51.5393847,0</coordinates>
+            </Point>
+            <TimeSpan>
+                <begin>2021-10-20T10:43:08.003Z</begin>
+                <end>2021-10-20T10:47:56.807Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>On the subway</name>
+            <address></address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>On the subway</value>
+                </Data>
+                <Data name="Distance">
+                    <value>1885</value>
+                </Data>
+            </ExtendedData>
+            <description>On the subway from 2021-10-20T10:47:56.807Z to 2021-10-20T10:59:03.406Z. Distance 1885m
+            </description>
+            <LineString>
+                <altitudeMode>clampToGround</altitudeMode>
+                <extrude>1</extrude>
+                <tesselate>1</tesselate>
+                <coordinates>-0.1426546,51.5393847,0 -0.1427743,51.5395378,0 -0.1413624,51.5227771,0
+                    -0.1413624,51.5227771,0
+                </coordinates>
+            </LineString>
+            <TimeSpan>
+                <begin>2021-10-20T10:47:56.807Z</begin>
+                <end>2021-10-20T10:59:03.406Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>Oriental Dragon Restaurant</name>
+            <address>100 Cleveland St, London W1T 6NU</address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>Chinese</value>
+                </Data>
+                <Data name="Distance">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <description>Chinese from 2021-10-20T10:59:03.406Z to 2021-10-20T12:58:55.283Z. Distance 0m</description>
+            <Point>
+                <coordinates>-0.1413624,51.5227771,0</coordinates>
+            </Point>
+            <TimeSpan>
+                <begin>2021-10-20T10:59:03.406Z</begin>
+                <end>2021-10-20T12:58:55.283Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>Walking</name>
+            <address></address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>Walking</value>
+                </Data>
+                <Data name="Distance">
+                    <value>133</value>
+                </Data>
+            </ExtendedData>
+            <description>Walking from 2021-10-20T12:58:55.283Z to 2021-10-20T13:02:57.374Z. Distance 133m</description>
+            <LineString>
+                <altitudeMode>clampToGround</altitudeMode>
+                <extrude>1</extrude>
+                <tesselate>1</tesselate>
+                <coordinates>-0.1413624,51.5227771,0 -0.1413624,51.5227771,0 -0.1414108,51.5227356,0
+                    -0.1417995,51.523039,0 -0.1417879,51.5236642,0 -0.14158260000000003,51.523626699999994,0
+                    -0.14158260000000003,51.523626699999994,0
+                </coordinates>
+            </LineString>
+            <TimeSpan>
+                <begin>2021-10-20T12:58:55.283Z</begin>
+                <end>2021-10-20T13:02:57.374Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>J Evans</name>
+            <address>Warren St, London W1T 5NF</address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>Coffee shop</value>
+                </Data>
+                <Data name="Distance">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <description>Coffee shop from 2021-10-20T13:02:57.374Z to 2021-10-20T13:35:22.340Z. Distance 0m
+            </description>
+            <Point>
+                <coordinates>-0.1415826,51.523626699999994,0</coordinates>
+            </Point>
+            <TimeSpan>
+                <begin>2021-10-20T13:02:57.374Z</begin>
+                <end>2021-10-20T13:35:22.340Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>Walking</name>
+            <address></address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>Walking</value>
+                </Data>
+                <Data name="Distance">
+                    <value>351</value>
+                </Data>
+            </ExtendedData>
+            <description>Walking from 2021-10-20T13:35:22.340Z to 2021-10-20T13:43:29.218Z. Distance 351m</description>
+            <LineString>
+                <altitudeMode>clampToGround</altitudeMode>
+                <extrude>1</extrude>
+                <tesselate>1</tesselate>
+                <coordinates>-0.14158260000000003,51.523626699999994,0 -0.14158260000000003,51.523626699999994,0
+                    -0.1417131,51.5236996,0 -0.1421773,51.5240632,0 -0.1416755,51.524122,0 -0.1400332,51.5245324,0
+                    -0.1382954,51.5248552,0 -0.1382725189549389,51.52482146386213,0
+                </coordinates>
+            </LineString>
+            <TimeSpan>
+                <begin>2021-10-20T13:35:22.340Z</begin>
+                <end>2021-10-20T13:43:29.218Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>Warren Street</name>
+            <address>London NW1 3AA</address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>Underground Station</value>
+                </Data>
+                <Data name="Distance">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <description>Underground Station from 2021-10-20T13:43:29.218Z to 2021-10-20T13:52:42.647Z. Distance 0m
+            </description>
+            <Point>
+                <coordinates>-0.1381671,51.5246192,0</coordinates>
+            </Point>
+            <TimeSpan>
+                <begin>2021-10-20T13:43:29.218Z</begin>
+                <end>2021-10-20T13:52:42.647Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>On a bus</name>
+            <address></address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value>On a bus</value>
+                </Data>
+                <Data name="Distance">
+                    <value>11916</value>
+                </Data>
+            </ExtendedData>
+            <description>On a bus from 2021-10-20T13:52:42.647Z to 2021-10-20T15:09:46.285Z. Distance 11916m
+            </description>
+            <LineString>
+                <altitudeMode>clampToGround</altitudeMode>
+                <extrude>1</extrude>
+                <tesselate>1</tesselate>
+                <coordinates>-0.1382725189549389,51.52482146386213,0 -0.1380229,51.52453,0 -0.1386311,51.5273323,0
+                    -0.1388202,51.5312447,0 -0.138969,51.5346285,0 -0.141817,51.5379767,0 -0.1421574,51.5408989,0
+                    -0.1415103,51.5440738,0 -0.1418225,51.5461896,0 -0.1416332,51.5469948,0 -0.1414525,51.5476461,0
+                    -0.1412236,51.5482009,0 -0.1410768,51.5487466,0 -0.1408957,51.5495364,0 -0.1405941,51.5511837,0
+                    -0.1399188,51.5549823,0 -0.1385268,51.5567586,0 -0.1374706,51.5595342,0 -0.1355418,51.5635772,0
+                    -0.1346409,51.5654271,0 -0.1339914,51.5661673,0 -0.1348377,51.5666014,0 -0.1360466,51.567902,0
+                    -0.1368935,51.5689791,0 -0.1379201,51.5700137,0 -0.1393096,51.5713289,0 -0.1399746,51.5721214,0
+                    -0.1400749,51.5723698,0 -0.1434668,51.5759499,0 -0.1466857,51.5774461,0 -0.1472393,51.5792731,0
+                    -0.1470365,51.5844988,0 -0.1468116,51.5864809,0 -0.1445205,51.5897503,0 -0.1440971,51.5901381,0
+                    -0.1436295,51.5903969,0 -0.1430853,51.5907276,0 -0.1430285,51.5907601,0 -0.1426592,51.590931,0
+                    -0.1424645,51.5911568,0 -0.1428619,51.5917069,0 -0.1446873,51.5947963,0 -0.1471559,51.5993231,0
+                    -0.1487415,51.6042336,0 -0.151837,51.6066829,0 -0.151837,51.6066859,0 -0.1518607,51.6066986,0
+                    -0.1520619,51.6068741,0 -0.1522814,51.6071068,0 -0.1525723,51.6073445,0 -0.1525715,51.607336,0
+                    -0.1527933,51.6082546,0 -0.1572697,51.6119676,0 -0.1595219,51.6124708,0 -0.1656811,51.611542,0
+                    -0.1717398,51.6116771,0 -0.1756399,51.6117481,0 -0.17524869999999998,51.6111477,0
+                    -0.17524869999999998,51.6111477,0
+                </coordinates>
+            </LineString>
+            <TimeSpan>
+                <begin>2021-10-20T13:52:42.647Z</begin>
+                <end>2021-10-20T15:09:46.285Z</end>
+            </TimeSpan>
+        </Placemark>
+        <Placemark>
+            <name>Home (626 High Rd)</name>
+            <address>626 High Rd, London N12 0NU</address>
+            <ExtendedData>
+                <Data name="Email">
+                    <value>romilly.cocking@gmail.com</value>
+                </Data>
+                <Data name="Category">
+                    <value></value>
+                </Data>
+                <Data name="Distance">
+                    <value>0</value>
+                </Data>
+            </ExtendedData>
+            <description>from 2021-10-20T15:09:46.285Z to 2021-10-21T11:03:58.518Z. Distance 0m</description>
+            <Point>
+                <coordinates>-0.17524869999999998,51.6111477,0</coordinates>
+            </Point>
+            <TimeSpan>
+                <begin>2021-10-20T15:09:46.285Z</begin>
+                <end>2021-10-21T11:03:58.518Z</end>
+            </TimeSpan>
+        </Placemark>
+    </Document>
+</kml>
